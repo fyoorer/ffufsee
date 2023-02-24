@@ -1,0 +1,2 @@
+# ffufsee
+Ffuf output browser
